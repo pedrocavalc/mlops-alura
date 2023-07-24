@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='curso mlops deploy alura',
-    author='pedrocavalc',
+    author='julio.oliveira',
     license='',
 )
